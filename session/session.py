@@ -6,7 +6,7 @@ import itchat
 from logs.logger import logger
 from model import doubao
 from config.config import *
-from session_utils import flow_monitoring, context_management
+from session.session_utils import flow_monitoring, context_management
 
 # 会话字典（初始值保持空值）
 sessions = {}
