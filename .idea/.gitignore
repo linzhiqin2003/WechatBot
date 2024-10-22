@@ -6,3 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+#pkl文件
+/itchat.pkl
+#log日志
+token_usage.log
